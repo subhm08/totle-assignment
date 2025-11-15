@@ -24,7 +24,7 @@ To run this project locally, follow these steps.
 
 1.  **Clone (or download) the repository:**
     ```bash
-    git clone [https://your-repo-url.com/project.git](https://your-repo-url.com/project.git)
+    git clone https://github.com/subhm08/totle-assignment
     cd project
     ```
 
